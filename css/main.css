@@ -20,6 +20,14 @@ body {
   padding-right: 3vw;
 }
 
+a:link {
+  color: darkgreen;
+}
+
+a:visited {
+  color: rgb(85, 15, 82);
+}
+
 .page-area {
   position: relative;
   height: 100%;
